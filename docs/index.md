@@ -1,1 +1,1 @@
---8<-- "https://raw.githubusercontent.com/shenxiangzhuang/mppt/master/README.md"
+--8<-- "https://raw.githubusercontent.com/shenxiangzhuang/char-rnn/master/README.md"

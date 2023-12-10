@@ -1,28 +1,15 @@
-site_name: MPPT
-repo_url: https://github.com/shenxiangzhuang/mppt
-repo_name: shenxiangzhuang/mppt
+site_name: Character Level RNN
+repo_url: https://github.com/shenxiangzhuang/char-rnn
+repo_name: shenxiangzhuang/char-rnn
 edit_uri: ""
-site_description: A Modern Python Package Template
+site_description: Character level RNN
 site_author: Xiangzhuang Shen
 copyright: Copyright &copy; 2023 Xiangzhuang Shen
 
 # Page tree
 nav:
   - Home: index.md
-  - Package Management:
-      - package/index.md
-      - Comparison of Python package managers: package/compare.md
-  - Documentation:
-      - doc/index.md
-  - Linters&Formatters:
-      - linter/index.md
-  - Testing:
-      - test/index.md
-  - Task Runner:
-      - task/index.md
-  - Miscellaneous:
-      - miscellaneous/index.md
-  - Changelog: changelog.md
+
 
 theme:
   name: material
