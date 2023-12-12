@@ -9,7 +9,7 @@
 [![Build Docs](https://github.com/shenxiangzhuang/char-rnn/actions/workflows/build_docs.yaml/badge.svg)](https://github.com/shenxiangzhuang/char-rnn/actions/workflows/build_docs.yaml)
 ![Test](https://github.com/shenxiangzhuang/char-rnn/actions/workflows/test.yaml/badge.svg)
 ![Codecov](https://codecov.io/gh/shenxiangzhuang/char-rnn/branch/master/graph/badge.svg)
-[![Python](https://img.shields.io/badge/Python-3.8,%203.9,%203.10,%203.11-blue)]()
+[![Python](https://img.shields.io/badge/Python-3.9,%203.10,%203.11-blue)]()
 ![GitHub License](https://img.shields.io/github/license/shenxiangzhuang/char-rnn)
 
 </center>
