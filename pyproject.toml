@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "char-rnn"
+version = "0.1.0"
+description = "char rnn"
+authors = ["Xiangzhuang Shen <datahonor@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "^4.2.4"
+torch = "^2.4.0"
+numpy = "^2.0.1"
+
+[[tool.poetry.source]]
+name = "tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+priority = "primary"
+
+[[tool.poetry.source]]
+name = "PyPI"
+priority = "supplemental"
+
+
+
+[tool.poetry.group.dev.dependencies]
+nvitop = "^1.3.2"
+ipython = "^8.26.0"
+pre-commit = "^3.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
